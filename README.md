@@ -4,7 +4,6 @@
 
 - <b>Amazon Data and Sales Analysis </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
 - <b>Certifications</b>
   - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/R9R2HDN0XUHS)
 - <b>PowerShell</b>
